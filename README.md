@@ -1,4 +1,4 @@
-# SQL Challenge: Pewlett Hackard Employee Database
+# SQL Challenge: Employee Database
 
 ## Project Background ##
 
@@ -37,14 +37,13 @@ Using our ERD, we then created all six tables directly in PostgreSQL by export t
 
 <img width="785" alt="Screenshot 2024-05-01 at 11 40 41 PM" src="https://github.com/AVI-1213/sql_challenge/assets/156638175/537bcd92-7735-43a9-add3-5da12756098c">
 
----
 
 ## Data Analysis
 
 Once, the Data was imported Successfully, we then delve into further analysis as per the requirements <br>
 Here are the 8 requirements, which we addressed over here :- <br>
 
-[Link to Solution .sql file](EmployeeSQL/Analysis.sql)
+[Link to Solution for all 8 questions .sql file](EmployeeSQL/Analysis.sql)
 
 1.	List the employee number, last name, first name, sex, and salary of each employee.
 2.	List the first name, last name, and hire date for the employees who were hired in 1986.
