@@ -60,5 +60,9 @@ Here are the 8 requirements, which we addressed over here :- <br>
   - VS Code 
 
 
-- [Avinash K]([link to your GitHub profile](https://github.com/AVI-1213))
+---
+## Contributors
+
+- [Avinash K]([link to my GitHub profile](https://github.com/AVI-1213))
+
 
